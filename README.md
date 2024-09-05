@@ -1,7 +1,10 @@
-# Petitions Site Frontend (SENG365 Assignment 2) 
+# Petitions Site Frontend
 
 This code implements a web client to provide the front-end for the following 18 user stories:
+
 [Petition Site User Stories](https://github.com/StephenHuang17253/petitions-site-frontend/blob/main/SENG%20365%202024%20Assignment%202%20User%20Stories.pdf)
+
+Created for SENG365 Assignment 2 at the University of Canterbury, graded A-
 
 ![image](https://github.com/user-attachments/assets/2d1315c1-b908-4d5e-859d-b804071a1085)
 ![image](https://github.com/user-attachments/assets/f4a338f8-dab1-4524-9254-c7a2672b2e75)
